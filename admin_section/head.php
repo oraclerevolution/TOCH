@@ -39,5 +39,6 @@
       font-size:1.5em;
       text-align:center;
     }
+    
   </style>
 </head>

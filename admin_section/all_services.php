@@ -37,11 +37,14 @@
 							<?php echo $donnees['descr'] ?>
 						</p>
                 <p>
-                  <button type="submit" class="btn_1 gray"><i class="fa fa-fw fa-eye"></i>Modifier</button>
+                	<a href="update.php?id=<?php echo $donnees['id']; ?>">
+                		<button type="submit" class="btn_1 gray"><i class="fa fa-fw fa-eye"></i>Modifier</button>
+                	</a>
+                  
                 </p>
                 <ul class="buttons">
                     <li>
-                      <button type="submit" class="btn_1 gray delete wishlist_close"><i class="fa fa-fw fa-times-circle-o"></i> Supprimer</button>
+                      <a href="delete.php?id=<?php echo $donnees['id'] ?>"><button type="submit" class="btn_1 gray delete wishlist_close"><i class="fa fa-fw fa-times-circle-o"></i> Supprimer</button></a>
                     </li>
                 </ul>
             
