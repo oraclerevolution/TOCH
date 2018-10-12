@@ -1,7 +1,7 @@
 # TOCH -> The Online City Hall
 voila un projet pensé par un informaticien developpeur d'application ivoirien qui va permettre a toute la population d'effectuer des services de mairie en ligne depuis leur domicile.
 Pour l'instant les quatres services qui sont visés sont:
-- declaration de naissance <br/>
+-declaration de naissance <br/>
 -demande de copie d'extrait de naissance <br/>
 -declaration de décès <br/>
 -declaration de mariage <br/>
